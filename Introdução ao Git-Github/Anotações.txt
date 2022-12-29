@@ -1,0 +1,3 @@
+Usar Clone - No github
+Depois Commit - No git bash
+Depois push - Para levar da máquina para o servidor remoto (Github)
